@@ -1,0 +1,14 @@
+              precision    recall  f1-score   support
+
+  Smooth (E)       0.81      0.81      0.81       200
+  Spiral (S)       0.81      0.81      0.81       200
+
+    accuracy                           0.81       400
+   macro avg       0.81      0.81      0.81       400
+weighted avg       0.81      0.81      0.81       400
+
+Accuracy : 0.8100
+Precision: 0.8100
+Recall   : 0.8100
+F1-score : 0.8100
+Macro F1 : 0.8100

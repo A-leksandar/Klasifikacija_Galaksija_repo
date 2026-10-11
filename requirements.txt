@@ -1,0 +1,7 @@
+tensorflow
+pandas
+numpy
+astropy
+scikit-learn
+pillow
+matplotlib
